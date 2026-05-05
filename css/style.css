@@ -1,6 +1,7 @@
 :root {
   --color-fuente: rgb(34, 34, 121);
   margin: 50px;
+  background-color: #fff;
 }
 
 h1 {
